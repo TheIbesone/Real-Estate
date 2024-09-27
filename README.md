@@ -16,7 +16,7 @@ ___
 ## Data Sourcing:
 
 The data contains a single sheet/table:
-The table has 23,2376 rolls and 12 columns. The columns contain status, price, bed, bath, acre_lot, full_address, street, city, state, zip_code, house_size, and sold date.
+The table has 23,2376 rows and 12 columns. The columns contain status, price, bed, bath, acre_lot, full_address, street, city, state, zip_code, house_size, and sold date.
 ___
 ## Skill/ Concept Demonstrated:
 
